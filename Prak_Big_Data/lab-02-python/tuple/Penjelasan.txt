@@ -1,0 +1,13 @@
+6. Tuple
+Penjelasan
+
+Tuple adalah salah satu tipe data di Python yang berfungsi sebagai wadah untuk menyimpan koleksi objek. Berbeda dengan list, tuple bersifat immutable atau tidak bisa diubah setelah didefinisikan. Ini berarti kita tidak bisa menambah, menghapus, atau mengubah elemen-elemen dalam tuple setelah dibuat. Tuple sering digunakan untuk data yang bersifat tetap dan tidak perlu diubah.
+
+Tuple didefinisikan dengan menggunakan tanda kurung biasa () dan elemennya dipisahkan oleh koma.
+
+Ciri-ciri Tuple:
+
+    Immutable (tidak bisa diubah setelah dibuat).
+    Elemen-elemen dalam tuple bisa berupa tipe data apapun, seperti angka, - string, atau bahkan tuple lain.
+    Bisa berisi elemen yang sama (duplicate elements diperbolehkan).
+    Tuple bersifat terurut (ordered), sehingga setiap elemen punya posisi atau indeks tertentu.
